@@ -15,9 +15,7 @@
   },
   "name": "rover",
   "version": "1.0.0",
-  "engines": {
-    "node": "12.13.0"
-     }
+    "node": "12.13.0",
   "main": "src/index.js",
   "repository": "https://github.com/evaera/RoVer",
   "author": "evaera",
